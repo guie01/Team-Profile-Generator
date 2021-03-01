@@ -1,7 +1,9 @@
 .mx-auto{
-    display: inline-flex;  
+    display: inline-flex;
 }
 .container{
     text-align: center;
 }
-
+#title{
+    font-size: 50px;
+}

@@ -13,11 +13,11 @@
   <a name="application"></a>
   ## Application Description.
   
-  A command-line-input application run in Node that takes information from the user to create a HTML displaying all members of the user's team. .
+  A command-line-input application run in Node that takes information from the user to create a HTML displaying all members of the user's team. 
   <a name="installation"></a>
   ## Installation.
   
-  User must install inquirer. Application runs in Node. .
+  User must install inquirer. Application runs in Node. 
   
   <a name="usage"></a>
   ## Usage
@@ -27,12 +27,12 @@
   <a name="contribution"></a>
   ## Contributing
   
-  To contribute, contact guie01. .
+  To contribute, contact guie01. 
   
   <a name="test"></a>
   ## Test
   
-  npm test to see all test. .
+  npm test to see all test. 
   
   <a name="questions"></a>
   ## Questions
@@ -44,6 +44,9 @@
   <a name="license"></a>
   ## Licenses & Badges
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  ..
+  .
   
+  ## Video Walkthrough & ScreenShots
+
+  Video Walkthrough: https://drive.google.com/file/d/1cgiT-8aLoyzVzqPizfFHit9LpWzDXo2V/view
   
